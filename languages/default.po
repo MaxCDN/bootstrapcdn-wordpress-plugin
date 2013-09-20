@@ -1,0 +1,138 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Bootstrap CDN\n"
+"POT-Creation-Date: 2013-08-22 21:41+0100\n"
+"PO-Revision-Date: 2013-08-22 21:41+0100\n"
+"Last-Translator: Martin Sudolsky <martin@sudolsky.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-KeywordsList: __;_e;esc_html__;esc_html_e;esc_attr__;esc_attr_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../bootstrapcdn.php:113 ../admin/options.php:19 ../admin/top.php:3
+msgid "Bootstrap CDN"
+msgstr ""
+
+#: ../bootstrapcdn.php:120
+msgid "Settings"
+msgstr ""
+
+#: ../bootstrapcdn.php:138
+msgid "Error occurred during AJAX request. Please try again later."
+msgstr ""
+
+#: ../bootstrapcdn.php:157
+msgid ""
+"Whoops! There was a problem with the data you posted. Please go back and try "
+"again."
+msgstr ""
+
+#: ../bootstrapcdn.php:201
+msgid "Settings were sucessfully saved."
+msgstr ""
+
+#: ../bootstrapcdn.php:204
+msgid "CDN data were updated."
+msgstr ""
+
+#: ../bootstrapcdn.php:540
+msgid ""
+"Cannot get content from remote server via function file_get_contents. Please "
+"check configuration of your server or install CURL."
+msgstr ""
+
+#: ../bootstrapcdn.php:588
+msgid ""
+"Cannot get content from remote server. Please enable CURL or allow_url_fopen "
+"with appropriate wrappers or tcp/ssl transports on your server."
+msgstr ""
+
+#: ../admin/options.php:9
+msgid "Check version"
+msgstr ""
+
+#: ../admin/options.php:22
+msgid "Disabled"
+msgstr ""
+
+#: ../admin/options.php:23
+msgid "Enabled"
+msgstr ""
+
+#: ../admin/options.php:28
+msgid "Bootstrap version"
+msgstr ""
+
+#: ../admin/options.php:58
+msgid "No icons"
+msgstr ""
+
+#: ../admin/options.php:61
+msgid "No responsible"
+msgstr ""
+
+#: ../admin/options.php:68
+msgid "No versions available"
+msgstr ""
+
+#: ../admin/options.php:73
+msgid "Do not include Bootstrap Javascript file."
+msgstr ""
+
+#: ../admin/options.php:79
+msgid "Font Awesome version"
+msgstr ""
+
+#: ../admin/options.php:82
+msgid "Do not include"
+msgstr ""
+
+#: ../admin/options.php:98
+msgid "Save Changes"
+msgstr ""
+
+#: ../admin/update_notice.php:7
+msgid "Bootstrap CDN:"
+msgstr ""
+
+#: ../admin/update_notice.php:8
+msgid "New update of the CDN data available, please"
+msgstr ""
+
+#: ../admin/update_notice.php:9
+msgid "Update CDN data"
+msgstr ""
+
+#: ../admin/update_notice.php:9
+msgid "update CDN data"
+msgstr ""
+
+#: ../admin/update_notice.php:15
+msgid "Dismiss"
+msgstr ""
+
+#: ../admin/options_version.php:8
+msgid "WARNING:"
+msgstr ""
+
+#: ../admin/options_version.php:9
+msgid "On the webpage was detected more than one version of Bootstrap:"
+msgstr ""
+
+#: ../admin/options_version.php:14
+msgid "On the webpage was detected version of Bootstrap:"
+msgstr ""
+
+#: ../admin/options_version.php:19
+msgid "On the webpage was not detected Bootstrap."
+msgstr ""
+
+#: ../admin/options_version.php:22
+msgid ""
+"The version of Bootstrap used on the webpage was not yet checked. Please "
+"click on the button below."
+msgstr ""

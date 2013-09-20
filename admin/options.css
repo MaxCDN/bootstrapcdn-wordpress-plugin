@@ -1,0 +1,17 @@
+.bscdn-error-color {
+  color: #ff0000;
+}
+
+.bscdn-spinner {
+  float: left;
+}
+
+.bscdn-check-version-button {
+  float: left;
+}
+
+.bscdn-checkbox {
+  margin-left: 2px;
+  display: block;
+  margin-top: 5px;
+}
